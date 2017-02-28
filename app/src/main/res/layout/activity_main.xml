@@ -16,7 +16,7 @@
         android:layout_height="wrap_content"
         android:text="Login"
         android:textSize="24sp"
-        android:textAppearance=""
+        android:textStyle="bold"
         android:layout_gravity="center_horizontal"/>
 
     <EditText
